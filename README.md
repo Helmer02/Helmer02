@@ -1,6 +1,6 @@
  Olá, eu sou Matheus Helmer Santos 
 
-Sou Analista de Suporte com atuação em sustentação de sistemas, análise de incidentes e diagnóstico técnico em ambientes corporativos.
+Sou Analista de Suporte com atuação em sustentação de sistemas, análise de incidentes e diagnóstico técnico em ambientes corporativos, com foco em troubleshooting e identificação de causa raiz.
 
  Sobre mim
 
