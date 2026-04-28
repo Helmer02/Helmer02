@@ -1,58 +1,58 @@
- Olá, eu sou Matheus Helmer Santos 
+# Matheus Helmer
 
-Sou Analista de Suporte com atuação em sustentação de sistemas, análise de incidentes e diagnóstico técnico em ambientes corporativos, com foco em troubleshooting e identificação de causa raiz.
+Profissional de Tecnologia com experiência em suporte técnico, análise de incidentes e sustentação de sistemas, com foco em resolução de problemas e experiência do cliente.
 
- Sobre mim
+---
 
-- Atuação com sustentação de sistemas críticos
-- Análise de incidentes e investigação de causa raiz (RCA)
-- Uso de SQL para diagnóstico e validação de dados
-- Experiência com ITSM, Active Directory e troubleshooting
-- Desenvolvimento de soluções SaaS com foco em performance e escalabilidade
-- Perfil hands-on com visão técnica e de negócio
+## Sobre mim
 
- Projetos em destaque
+Atuo com suporte a sistemas corporativos, realizando atendimento ao cliente, diagnóstico de problemas e acompanhamento de chamados com base em SLA.
 
- IOY Landing
-Landing page institucional com foco em conversão e apresentação de soluções digitais  
-👉 https://ioy.com.br  
+Tenho experiência com análise de incidentes, identificação de causa raiz e melhoria contínua de processos. Também possuo conhecimento em banco de dados e SQL, o que me permite investigar e entender comportamentos do sistema com mais profundidade.
 
- IOY Biolink
-Plataforma de biolink com estrutura SaaS, inspirada em soluções como Linktree  
+Além da atuação em suporte, desenvolvo projetos próprios de software, o que amplia minha visão sobre funcionamento de sistemas, usabilidade e necessidades reais do usuário.
 
+---
 
-Projeto principal (privado)
+## Experiência técnica
 
-Atualmente desenvolvo um sistema SaaS de agendamento (IOY Agenda), com foco em gestão de horários, clientes e serviços.
+- Atendimento ao cliente (Help Desk)
+- Gestão de incidentes e chamados (ITSM)
+- Troubleshooting e análise de causa raiz
+- Banco de dados (MySQL, Firebird)
+- SQL para análise e consulta de dados
+- Active Directory e gestão de acessos
+- Redes TCP/IP, VPN e conectividade
+- Lógica de programação
 
-Projeto em produção com arquitetura multi-tenant e foco em escalabilidade, segurança e performance.
+---
 
-Por se tratar de um produto com regras de negócio proprietárias, o código não está público.
+## Projetos
 
-  Principais conceitos aplicados:
+### IOY Sistemas (SaaS)
+Sistema em desenvolvimento voltado para gestão de negócios.
 
-- Arquitetura SaaS multi-tenant
-- Segurança com Row Level Security (RLS)
-- Integração com banco de dados (Supabase/PostgreSQL)
-- Controle de acesso e permissões
-- Performance e otimização de consultas
-- Experiência do usuário (UX)
+- Estrutura de sistema multi-tenant
+- Cadastro de produtos, pedidos e clientes
+- Painel administrativo
+- Aplicação de conceitos de banco de dados e lógica de sistemas
 
-  Tecnologias e conhecimentos
-- Suporte e Sustentação de Sistemas
-- SQL
-- ITSM
-- Active Directory
-- Next.js
-- TypeScript
-- Supabase
-- PostgreSQL
-- Automação de processos
+### Sistema de Agendamento
+Aplicação para organização de agenda e atendimento.
 
-  Objetivo profissional
-Atuar em ambientes desafiadores onde eu possa contribuir com minha experiência em suporte e sustentação, evoluindo tecnicamente e agregando valor ao negócio.
+- Interface para cliente e painel administrativo
+- Controle de horários e visualização em calendário
+- Foco em otimização de atendimento e redução de falhas operacionais
 
-  Contato
-- LinkedIn: https://linkedin.com/in/matheus-helmer  
-- Site: https://ioy.com.br  
-- Sistema: https://agenda.ioy.com.br
+---
+
+## Objetivo
+
+Atuar em uma posição onde eu possa contribuir com atendimento ao cliente, resolução de problemas e melhoria contínua de sistemas, ao mesmo tempo em que evoluo tecnicamente e agrego valor ao produto.
+
+---
+
+## Contato
+
+Email: matheushelmer13@gmail.com  
+LinkedIn: linkedin.com/in/matheus-helmer
